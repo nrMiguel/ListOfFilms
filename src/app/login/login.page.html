@@ -1,0 +1,15 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-title>Login</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content padding>
+  <ion-input [(ngModel)]="email" placeholder="Email" color="secondary" value="miguel@miguelon.com"></ion-input>
+  <ion-input [(ngModel)]="password" type="password" placeholder="Password" color="secondary" value="123456"></ion-input>
+  <ion-button (click)="attemptLogin()">Login</ion-button>
+
+  <ion-input>No tienes cuenta? Registrate</ion-input>
+  <ion-button routerLink="/signup">Signup</ion-button>
+  <!--<ion-button routerLink="/home">Ir a Home</ion-button>-->
+</ion-content>

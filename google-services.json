@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "891369373241",
+    "project_id": "uf1-pr01-miguelnunezramon1",
+    "storage_bucket": "uf1-pr01-miguelnunezramon1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891369373241:android:fb2b712d470425d99817e8",
+        "android_client_info": {
+          "package_name": "io.ionic.practica"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "891369373241-tkmqnifc19ib88k6ftc3doqffqs7pntq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdZPtK4BHbKsMV8WLf3X_4hXG2vDJg3Mo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "891369373241-tkmqnifc19ib88k6ftc3doqffqs7pntq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
